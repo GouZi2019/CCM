@@ -8,7 +8,7 @@ This repository contains the official implementation of our IJCV paper "Collecti
 
 Inspired by the collective nature of animal migration, we introduce a novel perspective on image registration by framing large-deformation compensation as collective manifold. In this perspective, we regard salient points in images as leaders, similar to leader animals in a migratory flock, playing a pivotal role in guiding the overall registration process. In contrast, non-salient points are considered as flocks, akin to the animals in the flock following the leaders. To estimate a collective manifold, we divide large-deformation registration into three parts following the migration pattern of animals: routes decision based on collectiveness quantification, routes execution with collectiveness maintenance, and cascaded migration with collectiveness inheritance. These three parts are integrated in the collective cascaded migration (CCM) framework, effectively compensating for image large-scale deformation.
 
-![](.\Figures\flowchart.jpg)
+![image](.\Figures\flowchart.jpg)
 
 ## Implementation Notes
 
