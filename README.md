@@ -48,15 +48,15 @@ Run the Jupyter notebook files in `Scripts/` to test all modules with sample dat
 
 ### Qualitative results
 
-![image](https://github.com/GouZi2019/CCM/blob/main/Figures/object results OS.jpg)
+![image](https://github.com/GouZi2019/CCM/blob/main/Figures/object_results_OS.jpg)
 
 ![image](https://github.com/GouZi2019/CCM/blob/main/Figures/lung.jpg)
 
 ### Performance boosting
 
-![image](https://github.com/GouZi2019/CCM/blob/main/Figures/fire table.png)
+![image](https://github.com/GouZi2019/CCM/blob/main/Figures/fire_table.png)
 
-![image](https://github.com/GouZi2019/CCM/blob/main/Figures/lung table.png)
+![image](https://github.com/GouZi2019/CCM/blob/main/Figures/lung_table.png)
 
 ## Contact
 
