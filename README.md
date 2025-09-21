@@ -71,5 +71,5 @@ If you have any problem, please contact us via [driverliu@163.com](driverliu@163
 Please consider citing our work if you find it useful:
 
 ```
-TO BE DONE
+Liu, D., Ai, D., Song, H. et al. Collective Migration-Inspired Large-Deformation Compensation for Nonrigid Image Registration. Int J Comput Vis (2025). https://doi.org/10.1007/s11263-025-02538-9
 ```
